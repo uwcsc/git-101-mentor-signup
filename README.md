@@ -5,3 +5,5 @@
 3. Make a pull request and tag @Azhng or @9at8 as reviewer
 
 Have fun!
+
+Note: your quest ID is public information.
