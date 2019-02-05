@@ -1,2 +1,4 @@
 Name: {blah}
 Email: {blah}
+Are you free on Monday(Feb 11th 6pm - 9 pm): {Yes/No}
+Favourite git command: {blah}
