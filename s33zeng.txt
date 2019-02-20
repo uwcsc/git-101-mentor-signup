@@ -1,0 +1,3 @@
+Name: Simon Zeng
+Are you free on Saturday(March 2nd 12 pm): Yes
+Favourite git command: reset --hard origin/master
