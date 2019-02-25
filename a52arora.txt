@@ -1,0 +1,3 @@
+Name: Aman Arora
+Are you free on Saturday(March 2nd 12 pm): Maybe
+Favourite git command: `rebase --interactive`
