@@ -1,0 +1,3 @@
+Name: Dhruv Jauhar
+Are you free on Saturday(March 2nd 12 pm): Yes
+Favourite git command: git rebase -i HEAD~n
