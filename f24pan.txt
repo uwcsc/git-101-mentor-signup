@@ -1,0 +1,4 @@
+Name: Lawrence Pan
+Email: lawrencefeipan@gmail.com
+Are you free on Saturday(March 2nd 12 pm): Yes
+Favourite git command: git push origin HEAD --force-with-lease
