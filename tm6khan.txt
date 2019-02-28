@@ -1,0 +1,3 @@
+Name: Tamim Mahmud Khan
+Are you free on Saturday(March 2nd 12 pm): Yes
+Favourite git command: git pull --rebase
